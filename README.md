@@ -21,7 +21,7 @@ a=np.array([[4,2],[2,4]])
 vals,vecs=np.linalg.eig(a)
 print("Eigen values are",vals,"and Eigen Vectors are",vecs)
 ~~~
-
+,,.
 ## Output:
 ![Github Logo](eigen.png)
 ## Result:
